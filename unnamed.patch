@@ -1,0 +1,42 @@
+Index: git/gitDemo.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- git/gitDemo.iml	(date 1572175060217)
++++ git/gitDemo.iml	(date 1572175060217)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$">
++      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
++    </content>
++    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: git/src/cn/itcast/HelloGit.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- git/src/cn/itcast/HelloGit.java	(date 1572175158261)
++++ git/src/cn/itcast/HelloGit.java	(date 1572175158261)
+@@ -0,0 +1,14 @@
++package cn.itcast;
++
++public class HelloGit {
++    public static void main(String[] args) {
++        System.out.println("你好 , git ............");
++        System.out.println("你好 , git ............");
++        System.out.println("你好 , git ............");
++        System.out.println("你好 , git ............");
++        System.out.println("你好 , git ............");
++        System.out.println("你好 , git ............");
++        System.out.println("你好 , git ............");
++        System.out.println("你好 , git ............");
++    }
++}
